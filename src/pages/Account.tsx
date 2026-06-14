@@ -51,11 +51,6 @@ export function Account() {
             <dd className="font-medium">Visa ending 4242</dd>
           </div>
         </dl>
-        <div className="mt-4 pt-4 border-t border-slate-100">
-          <button className="text-sm font-medium text-red-600 bg-red-50 hover:bg-red-100 border border-red-200 rounded-lg px-4 py-2 transition-colors">
-            Cancel subscription
-          </button>
-        </div>
       </Card>
     </main>
   );
