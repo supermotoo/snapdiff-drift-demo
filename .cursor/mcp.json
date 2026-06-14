@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "snapdiff": {
+      "command": "npx",
+      "args": ["-y", "@corralimited/snapdiff-mcp"],
+      "env": {
+        "SNAPDIFF_API_KEY": "${SNAPDIFF_API_KEY}"
+      }
+    }
+  }
+}
