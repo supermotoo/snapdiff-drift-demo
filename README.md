@@ -1,6 +1,6 @@
 # SnapDiff drift demo
 
-Companion repo for the tutorial **"Make 'Looks Right' a Checkable Step for Your Coding Agent"** (see [`article/article.md`](article/article.md)).
+Companion repo for the tutorial **"Your Coding Agent Reads the Diff. It Never Sees the Page."**.
 
 It's a small Vite + React + Tailwind "account page" wired up so an MCP-capable
 coding agent (Claude Code, Cursor, Windsurf, Cline, Zed, Continue) verifies
